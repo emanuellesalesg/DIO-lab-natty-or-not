@@ -4,8 +4,8 @@
 Participando do bootcamp Python AI Backend Developer, fui desafiado a explorar IAs Generativas para criar conteúdos o mais realistas possível. De imagens a textos, áudios e vídeos, busquei ser criativo e imergir no mundo das IAs Generativas. Como resultado, produzi um vídeo que simula uma reportagem informativa, destacando as inovações e possibilidades dessa tecnologia fascinante. Confira o resultado dessa jornada de aprendizado e criatividade!
 
 ## 🤖 Tecnologias Utilizadas
-CHAT-GPT: Geração de texto
-VIDENOZ AI: Transcrição de áudio e vídeo.
+- `CHAT-GPT`: Geração de texto
+- `VIDENOZ AI`: Transcrição de áudio e vídeo.
 
 ## 🧐 Processo de Criação
 Durante o processo de criação, foi maravilhoso explorar essas ferramentas de IA Generativa. Ao mergulhar nelas, pude perceber o quanto a IA está evoluindo e se desenvolvendo rapidamente, oferecendo novas e excitantes possibilidades para criação de conteúdo. Foi uma experiência enriquecedora que me permitiu experimentar e compreender o potencial ilimitado das IAs Generativas.
