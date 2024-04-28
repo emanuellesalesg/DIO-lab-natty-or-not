@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Python AI Backend Developer: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Participando do bootcamp Python AI Backend Developer, fui desafiado a explorar IAs Generativas para criar conteúdos o mais realistas possível. De imagens a textos, áudios e vídeos, busquei ser criativo e imergir no mundo das IAs Generativas. Como resultado, produzi um vídeo que simula uma reportagem informativa, destacando as inovações e possibilidades dessa tecnologia fascinante. Confira o resultado dessa jornada de aprendizado e criatividade!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHAT-GPT: Geração de texto
+VIDENOZ AI: Transcrição de áudio e vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Durante o processo de criação, foi maravilhoso explorar essas ferramentas de IA Generativa. Ao mergulhar nelas, pude perceber o quanto a IA está evoluindo e se desenvolvendo rapidamente, oferecendo novas e excitantes possibilidades para criação de conteúdo. Foi uma experiência enriquecedora que me permitiu experimentar e compreender o potencial ilimitado das IAs Generativas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<iframe width="560" height="315" src="https://youtu.be/1CA_8N5JqCQ" frameborder="0" allowfullscreen></iframe>
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### Texto usado:
+- Bem-vindos ao Jornal Novidades de Hoje:
+A Inteligência Artificial (IA) está quebrando barreiras linguísticas e revolucionando o aprendizado de idiomas. No futuro, a IA possibilitará aprendizado personalizado e eficaz de novos idiomas e facilitará a comunicação global, permitindo que as pessoas conversem em diferentes idiomas com assistentes virtuais e chatbots. O Laboratório de IA da DIO desempenha um papel crucial ao capacitar os alunos com conhecimentos e habilidades em IA, preparando-os para explorar todo o potencial dessa tecnologia. Este é apenas o começo de um futuro emocionante impulsionado pela IA. Continuem acompanhando as últimas novidades enquanto exploramos as possibilidades infinitas que a IA oferece para o mundo conectado e inclusivo de amanhã.
 
-### Exemplos e Insigths
+## 💭 Reflexão 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Durante essa jornada explorando as IAs Generativas, pude perceber que ainda há muito espaço para evolução nesse campo fascinante da inteligência artificial. No entanto, fiquei empolgado ao vislumbrar as possíveis melhorias e avanços que podem surgir no futuro. Acredito que essas tecnologias têm o potencial de impactar positivamente a vida das pessoas e contribuir para uma sociedade mais inclusiva e conectada. Estou ansioso para ver como essas inovações continuarão a se desenvolver e como podem ser aplicadas para beneficiar a humanidade como um todo.
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
