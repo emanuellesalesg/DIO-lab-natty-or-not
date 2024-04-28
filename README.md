@@ -11,7 +11,7 @@ VIDENOZ AI: Transcrição de áudio e vídeo.
 Durante o processo de criação, foi maravilhoso explorar essas ferramentas de IA Generativa. Ao mergulhar nelas, pude perceber o quanto a IA está evoluindo e se desenvolvendo rapidamente, oferecendo novas e excitantes possibilidades para criação de conteúdo. Foi uma experiência enriquecedora que me permitiu experimentar e compreender o potencial ilimitado das IAs Generativas.
 
 ## 🚀 Resultados
-[Assista ao vídeo aqui](https://youtu.be/1CA_8N5JqCQ)
+[![Assista ao vídeo aqui](https://img.youtube.com/vi/1CA_8N5JqCQ/0.jpg)](https://youtu.be/1CA_8N5JqCQ)
 
 ### Texto usado:
 - Bem-vindos ao Jornal Novidades de Hoje:
